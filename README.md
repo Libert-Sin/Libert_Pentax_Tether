@@ -28,14 +28,14 @@ This tool is built on the official **RICOH Camera SDK**, which means legacy Pent
 * **PENTAX KP**
 * **PENTAX 645Z**
 
-> 💡 *Note for legacy models: If your camera is not listed above, please consider using [pkTriggerCord](https://melda.info) as an alternative.*
+> 💡 *Note for legacy models: If your camera is not listed above, please consider using an alternative.*
 
 ---
 
 ## 💻 Supported OS / 지원 운영체제
 * **Windows**: Windows 7 / 10 / 11
 * **macOS**: High Sierra (10.13) or higher
-* **Linux**: Kernel 4.4 or higher (Officially tested on Ubuntu 16.04 / Arch Linux)
+* **Linux**: Kernel 4.4 or higher (Officially tested on Arch Linux)
 
 ---
 
@@ -44,12 +44,12 @@ This tool is built on the official **RICOH Camera SDK**, which means legacy Pent
 ### 1. Requirements (사전 준비)
 * You must install the **Java Runtime Environment (JRE)** on your computer.
 * 컴퓨터 운영체제에 맞는 자바 런타임(JRE) 설치가 필요합니다.
-* 👉 [Download Java (자바 다운로드)](https://java.com)
+* 👉 [Download Java (자바 다운로드)](https://java.com/ko/download)
 
 ### 2. Camera Setup (카메라 설정)
-1. In your Pentax camera menu, change the **USB Connection (USB 접속)** mode to **PTP**. (카메라 메뉴에서 USB 접속 모드를 **PTP**로 설정합니다.)
+1. In your Pentax camera menu, change the **USB Connection** mode to **PTP**. (카메라 메뉴에서 **USB 접속 모드**를 **PTP**로 설정합니다.)
 2. Connect your camera to the computer using a USB cable. (카메라와 컴퓨터를 USB 케이블로 연결합니다.)
-3. Verify that **`PTP`** (looks like `PcP`) is displayed on the camera's top LCD status screen. (카메라 상단 상태창에 PTP 문구가 뜨는지 확인합니다.)
+3. Verify that **`PTP`** (looks like `PcP`) is displayed on the camera's top LCD status screen. (카메라 상단 상태창에 PTP 문구가 뜨는지 확인합니다. PcP 처럼 보입니다.)
 
 ### 3. Running the Program (프로그램 실행)
 1. Download and extract the application zip file. (배포된 압축 파일을 다운로드하고 해제합니다.)
