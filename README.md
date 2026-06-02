@@ -1,6 +1,7 @@
 # Libert Pentax Tether
 
 A clean, Java-based lightweight USB tethering tool for PENTAX cameras, developed by **Libert Sin** using the official RICOH Camera SDK. 
+
 리코 공식 SDK를 기반으로 자바 환경에서 구동되는 깔끔하고 직관적인 펜탁스 전용 USB 테더링 프로그램입니다.
 
 ---
